@@ -1,0 +1,5 @@
+title: "2025 8月10日特設サイト"  # サイトのタイトル
+description: "this is joke site"  # サイトの説明
+baseurl: "810"  # ルートURL (GitHub Pages用ならリポジトリ名を指定)
+url: "https://2024202412345.github.io/tana-urasohu/"  # サイトの公開URL
+theme: minima  # デフォルトテーマ (必要に応じて変更)
